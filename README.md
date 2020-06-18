@@ -6,3 +6,5 @@ The 'central' Python script for performing the image reconstruction is called ba
 The code takes the interferograms from the laboratory experiment, applies two tomographic reconstruction algorithms: filtered back projection (FBP) and the simultaneous iterative reconstruction technique (SIRT).
 
 The tomographic reconstruction is consequently obtained. The varied roles of the different scripts include: image quality data improvement, performing reconstruction error analysis, and generating simulation data for algorithm testing. 
+
+(Example_of_data_improvement_visual.PNG)
