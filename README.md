@@ -7,4 +7,4 @@ The code takes the interferograms from the laboratory experiment, applies two to
 
 The tomographic reconstruction is consequently obtained. The varied roles of the different scripts include: image quality data improvement, performing reconstruction error analysis, and generating simulation data for algorithm testing. 
 
-(Example_of_data_improvement_visual.PNG)
+![Alternative text](Example_of_data_improvement_visual.PNG)
