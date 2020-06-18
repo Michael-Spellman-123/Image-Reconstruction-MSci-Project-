@@ -11,4 +11,4 @@ The tomographic reconstruction is consequently obtained. The varied roles of the
 ![Alternative text](Test object (phantom) and sinogram.PNG)
 ![Alternative text](reconstructions.PNG)
 ![Alternative text](Example_of_data_improvement_visual.PNG)
-![Alternative text](Images showing data improvement visual.PNG)
+![Alternative text](Images_showing_data_improvement_visual.PNG)
